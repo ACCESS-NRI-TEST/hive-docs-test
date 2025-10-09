@@ -7,7 +7,7 @@ hide:
 <h1 class="homepage"></h1>
 <div class="introduction">
     <div>
-        <div>Welcome to ACCESS-Hive Docs!</div>
+        <div>Welcome to ACCESS-Hive Docs test 2!</div>
         <div>
             Documentation for ACCESS users: getting set up, running models and model evaluation
         </div>
@@ -18,7 +18,7 @@ hide:
 </div>
 
 <div class="card-container homepage-buttons">
-    <a href="/getting_started" class="vertical-card">
+    <a href="../getting_started" class="vertical-card">
         <div class="bold">New ACCESS user?</div>
         <div class="card-text-container">
             <div class="bold">Get Started on NCI</div>
@@ -49,7 +49,7 @@ hide:
     </a>
     <a href="models/run-a-model" class="vertical-card aspect-ratio1to1">
         <div class="card-image-container">
-            <img class="img-cover" src="/assets/get_started_example.png" alt="Run a Model">
+            <img class="img-cover" src="assets/get_started_example.png" alt="Run a Model">
         </div>
         <div class="card-text-container">
             <div class="bold">Run a Model</div>
@@ -65,7 +65,7 @@ hide:
     </a>
     <a href="community_resources" class="vertical-card aspect-ratio1to1">
         <div class="card-image-container">
-            <img class="img-contain white-background" src="/assets/working_groups_icons/all_WG.png" alt="Community Resources">
+            <img class="img-contain white-background" src="assets/working_groups_icons/all_WG.png" alt="Community Resources">
         </div>
         <div class="card-text-container">
             <div class="bold">Community Resources</div>
